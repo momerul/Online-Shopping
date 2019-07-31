@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Momerul.Admin.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Boostrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Boostrap/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body>
+    <form runat="server">
+        <div class="container">
+            <br />
+            <div class="row">
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Admin Panel</b></p>
+            </div>
+            <div class="row col-md-12">
+                <div class="col-md-2 well" style="border: 1px solid ridge; height: 500px">
+
+                    <div class="row">
+                        <a href="AddNewProduct.aspx">Add New Product</a>
+                    </div>
+                    <div class="row">
+                        <a href="AddEditCategory.aspx">Add Edit Category</a>
+                    </div>
+                    <div class="row">
+                        <a href="customerDetail.aspx">Customer Details</a>
+                    </div>
+                    <div class="row">
+                        <a href="ProductDetails.aspx">Product Details</a>
+                    </div>
+                    <div class="row">
+                        <a href="Login.aspx">Log out</a>
+                    </div>
+                </div>
+
+                <div class="col-md-1">
+                </div>
+                <div class="col-md-9 well" style="height: 500px">
+                    <table style="border: 1px solid ridge">
+                        <tr>
+                            <td>
+                                <asp:Panel ID="Panel1" runat="server" Width="814px">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </asp:Panel>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

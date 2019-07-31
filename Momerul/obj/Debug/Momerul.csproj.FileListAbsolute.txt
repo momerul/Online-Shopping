@@ -1,0 +1,116 @@
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.IO.Compression.dll
+E:\Project\Momerul\Momerul\bin\roslyn\VBCSCompiler.exe
+E:\Project\Momerul\Momerul\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Momerul\Momerul\bin\roslyn\csc.exe
+E:\Project\Momerul\Momerul\bin\roslyn\csc.exe.config
+E:\Project\Momerul\Momerul\bin\roslyn\csc.rsp
+E:\Project\Momerul\Momerul\bin\roslyn\csi.exe
+E:\Project\Momerul\Momerul\bin\roslyn\csi.exe.config
+E:\Project\Momerul\Momerul\bin\roslyn\csi.rsp
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Momerul\Momerul\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.AppContext.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Console.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Diagnostics.Process.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Claims.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Threading.Thread.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.ValueTuple.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Momerul\Momerul\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Momerul\Momerul\bin\roslyn\vbc.exe
+E:\Project\Momerul\Momerul\bin\roslyn\vbc.exe.config
+E:\Project\Momerul\Momerul\bin\roslyn\vbc.rsp
+E:\Project\Momerul\Momerul\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Momerul\Momerul\obj\Debug\Momerul.csproj.CoreCompileInputs.cache
+E:\Project\Momerul\Momerul\obj\Debug\Momerul.dll
+E:\Project\Momerul\Momerul\obj\Debug\Momerul.pdb
+E:\Project\Momerul\Momerul\obj\Debug\Momerul.csprojResolveAssemblyReference.cache
+E:\Project\Momerul\Momerul\bin\Momerul.dll.config
+E:\Project\Momerul\Momerul\bin\Momerul.dll
+E:\Project\Momerul\Momerul\bin\Momerul.pdb
+E:\Project\Momerul\Momerul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Momerul\Momerul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Momerul\Momerul\obj\Debug\Momerul.csproj.CopyComplete
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csc.exe
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csc.exe.config
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csc.rsp
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csi.exe
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csi.exe.config
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\csi.rsp
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.AppContext.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Console.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Diagnostics.Process.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.IO.Compression.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Claims.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Threading.Thread.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.ValueTuple.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\vbc.exe
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\vbc.exe.config
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\vbc.rsp
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\VBCSCompiler.exe
+E:\Project\Project\Online Shopping\Momerul\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Project\Online Shopping\Momerul\bin\Momerul.dll.config
+E:\Project\Project\Online Shopping\Momerul\bin\Momerul.dll
+E:\Project\Project\Online Shopping\Momerul\bin\Momerul.pdb
+E:\Project\Project\Online Shopping\Momerul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Project\Online Shopping\Momerul\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Project\Online Shopping\Momerul\obj\Debug\Momerul.csprojResolveAssemblyReference.cache
+E:\Project\Project\Online Shopping\Momerul\obj\Debug\Momerul.csproj.CoreCompileInputs.cache
+E:\Project\Project\Online Shopping\Momerul\obj\Debug\Momerul.csproj.CopyComplete
+E:\Project\Project\Online Shopping\Momerul\obj\Debug\Momerul.dll
+E:\Project\Project\Online Shopping\Momerul\obj\Debug\Momerul.pdb
